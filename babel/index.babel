@@ -1,0 +1,2 @@
+const today = (new Date()).getFullYear();
+document.querySelector('.copywrite').innerHTML = `<p>&copy; Фёдор Лоенко, 2013-${today}</p>`;

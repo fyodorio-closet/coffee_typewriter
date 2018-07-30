@@ -1,0 +1,23 @@
+.content, .copywrite {
+  background-color: #E4D4B2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vw;
+  height: 95vh;
+  font-family: serif;
+  color: rgba(0, 0, 0, 0.87);
+}
+.content div:nth-child(1), .copywrite div:nth-child(1) {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 2rem;
+}
+.content div:nth-child(2), .copywrite div:nth-child(2) {
+  font-size: 1.5rem;
+}
+
+.copywrite {
+  height: 5vh;
+}
