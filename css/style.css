@@ -13,11 +13,16 @@
   text-transform: uppercase;
   font-weight: bold;
   font-size: 2rem;
+  text-align: center;
 }
-.content div:nth-child(2), .copywrite div:nth-child(2) {
-  font-size: 1.5rem;
+.content div:nth-child(2) {
+  font-size: 1.3rem;
 }
-
+a {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
 .copywrite {
   height: 5vh;
+  font-size: 1.2rem;
 }

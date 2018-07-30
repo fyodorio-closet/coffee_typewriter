@@ -1,2 +1,2 @@
 # coffee_typewriter
-Placeholder landing for a Russian-language poetry book 
+Placeholder landing for (coming soon) Russian-language poetry book 
